@@ -21,3 +21,4 @@ Ansible is a powerful automation tool for configuration management and deploymen
 
 ## Screenshots of Hands-On Practice
 - Add your images in the `images/` folder.
+- ![Ansible Setup](images/1.png)
